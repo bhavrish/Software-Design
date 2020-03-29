@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5800d05-1106-4b6a-a2d9-5deef22bdbb1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="196" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Morse_Code" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z5uDZ8AYTMQidzLNRDzzKqXR4r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestMorseConverter">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <module name="Morse_Code" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMorseConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TestMorseConverter" />
+      <module name="Morse_Code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TestMorseConverter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMorseConverter" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5800d05-1106-4b6a-a2d9-5deef22bdbb1" name="Default Changelist" comment="" />
+      <created>1584141157864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584141157864</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="94" key="#Main" timestamp="1584333797941">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="404" y="94" key="#Main/0.23.1440.821@0.23.1440.821" timestamp="1584333797941" />
+    <state x="320" y="95" key="#Project_Structure" timestamp="1584333893693">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="320" y="95" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1584333893693" />
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584337896631">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1584337896631" />
+    <state x="457" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584334987521">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="457" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.821@0.23.1440.821" timestamp="1584334987521" />
+    <state x="120" y="143" width="1200" height="573" key="DiffContextDialog" timestamp="1585105838377">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="120" y="143" width="1200" height="573" key="DiffContextDialog/0.23.1440.817@0.23.1440.817" timestamp="1585105838377" />
+    <state width="1358" height="193" key="GridCell.Tab.0.bottom" timestamp="1585170258040">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1584902525039" />
+    <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1585170258040" />
+    <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1585146768491" />
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1584338337802" />
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1584673860798" />
+    <state width="1358" height="193" key="GridCell.Tab.0.center" timestamp="1585170258039">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1584902525037" />
+    <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1585170258039" />
+    <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1585146768490" />
+    <state width="1358" height="196" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1584338337800" />
+    <state width="1358" height="196" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1584673860797" />
+    <state width="1358" height="193" key="GridCell.Tab.0.left" timestamp="1585170258038">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1584902525036" />
+    <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1585170258038" />
+    <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1585146768490" />
+    <state width="1358" height="196" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1584338337798" />
+    <state width="1358" height="196" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1584673860796" />
+    <state width="1358" height="193" key="GridCell.Tab.0.right" timestamp="1585170258040">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1584902525038" />
+    <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1585170258040" />
+    <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1585146768491" />
+    <state width="1358" height="196" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1584338337800" />
+    <state width="1358" height="196" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1584673860797" />
+    <state x="208" y="23" width="1024" height="823" key="SettingsEditor" timestamp="1584902522508">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1584902522508" />
+    <state x="208" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1584337599786" />
+    <state x="208" y="23" width="1024" height="823" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1584401134525" />
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1585175955309">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="399" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1584899891309" />
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.815@0.23.1440.815" timestamp="1585175955309" />
+    <state x="399" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1584338191646" />
+    <state x="399" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1584141169758" />
+    <state x="386" y="65" width="667" height="729" key="find.popup" timestamp="1584333170488">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="386" y="65" width="667" height="729" key="find.popup/0.23.1440.821@0.23.1440.821" timestamp="1584333170488" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1584399560496">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.823@0.23.1440.823" timestamp="1584399560496" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Morse_Code$TestMorseConverter.ic" NAME="TestMorseConverter Coverage Results" MODIFIED="1584338055385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
