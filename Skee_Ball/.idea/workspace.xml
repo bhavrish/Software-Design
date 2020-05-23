@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f74b4d9-259c-4ee8-9bd4-c6f42c4067f6" name="Default Changelist" comment="" />
+    <list default="true" id="0f74b4d9-259c-4ee8-9bd4-c6f42c4067f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Screen_Inventory/src/com/company/CRT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen_Inventory/src/com/company/ComputerMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen_Inventory/src/com/company/Inventory.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen_Inventory/src/com/company/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen_Inventory/src/com/company/LED.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen_Inventory/src/com/company/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen_Inventory/src/com/company/SmartTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Morse_Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Morse_Code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +25,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YKaih95DCEmJwko2AFcmqeVKv9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
