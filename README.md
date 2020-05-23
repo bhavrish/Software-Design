@@ -1,6 +1,6 @@
 # Software Design
 
-CCNY-Printing-System is a Terminal-based app that uses data structures to simulate and optimize the printing system in the CCNY NAC library.
+This is a collection of projects I built for my Software Design Laboratory (CSC 221) class.
 
 ## Projects
 1) BMI-Calculator: Terminal-based app to calculate BMI
